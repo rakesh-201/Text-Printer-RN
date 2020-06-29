@@ -1,1 +1,1 @@
-# Text-Printer-RN
+THIS IS MY FIRST REACT NATIVE APP.
